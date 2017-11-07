@@ -1,6 +1,6 @@
 # Mazarusha
 
-Lдтiи-Cyгillic lффк-дliкё cндгдcтёгs sцбsтiтцтiфи dдтдбдsё. Tнё dдтдбдsё is sтфгёd iи `mazarusha.json` filё iи JSON. Цsдgё ёждмplё cди бё fфциd iи `russify.js`.
+Lдтiи-Cyгillic lффк-дliкё cндгдcтёгs sцбsтiтцтiфи dдтдбдsё. Tнё dдтдбдsё is sтфгёd iи `mazarusha.json` filё iи JSФИ. Цsдgё ёждмplё cди бё fфциd iи `russify.js`.
 
 ## Sцppфгт
 
