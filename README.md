@@ -1,3 +1,4 @@
+[![Tsoding](https://img.shields.io/badge/twitch.tv-tsoding-purple?logo=twitch&style=for-the-badge)](https://www.twitch.tv/tsoding)
 # Mazarusha
 
 Lдтiи-Cyгillic lффк-дliкё cндгдcтёгs sцбsтiтцтiфи dдтдбдsё. Tнё dдтдбдsё is sтфгёd iи `mazarusha.json` filё iи JSФИ. Цsдgё ёждмplё cди бё fфциd iи `russify.js`.
